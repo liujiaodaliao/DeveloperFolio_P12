@@ -23,7 +23,7 @@ const greeting = {
   username: "Mei Meng",
   title: "Hi all, I'm Mei",
   subTitle: emoji(
-    "A front-end developer who is eager to learn and grow. 🎉 Experienced in utilizing web application development tools like JavaScript, React.js, Node.js, and React Native.Passionate about exploring cutting-edge technologies on the internet."
+    "A front-end developer who is eager to learn and grow. 🎉 Experienced in utilizing web application development tools like JavaScript, React.js, Node.js, and Express.js. Passionate about exploring cutting-edge technologies on the internet."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1e6heFB7WyxevKbWulfGGfTZkrdR9nCSI/view?usp=sharing", // Set to empty to hide the button
