@@ -212,7 +212,7 @@ const latestProjects = {
       projectName: "kasa Immobilier",
       projectDesc:
         "development of a Front-End of a real estate rental siteweb with React. ",
-      projectDesc2: "🖋️ L'objectif a été de reloocker et refondre le site web “Kasa”en un site dynamique avec  JavaScript / React pour le Front-End et Node.js pour le Back-End. J'ai installé les produits : Npm, React “App” et “Router”, et Node.js. J'ai développé en HTML, CSS et JavaScript/REACT.",
+      projectDesc2: "🖋️ The objective was to relocate and redesign the “Kasa” website into a dynamic site with React. Technologies used: React, JavaScript, Node.js",
         footerLink: [
         {
           name: emoji("🔗 source github "),
@@ -225,7 +225,7 @@ const latestProjects = {
       image: require("./assets/images/724-Events.webp"),
       projectName: "724-Events",
       projectDesc: "Debug an event planning agency website with React. ",
-      projectDesc2: "🖋️ L'objectif a été de modifier le front-end d’une application pour avoir une expérience de correction et modification du code. J'ai installé les produits :  Testt Driven Developpement, React Developer Tool . J'ai développé en HTML, CSS et JavaScript/REACT et Node.js.",
+      projectDesc2: "🖋️ The objective was to develop the front-end of an application to correct and modify the code. Technologies used: JavaScript, React, Node.js, Test Driven Development, React Developer Tool.",
       footerLink: [
         {
           name: emoji("🔗 source github "),
@@ -238,7 +238,7 @@ const latestProjects = {
       projectName: "ArgentBank",
       projectDesc:
         "Implement the front-end of a banking application with React. ",
-      projectDesc2: "🖋️ L'objectif a été de développer le front-end d’une application bancaire en ligne pour créer une expérience utilisateur dynamique et réactive. J'ai installé les produits : Npm, React, Redux, Nodes.js. J'ai développé en HTML, CSS et JavaScript/REACT, REDUX et Swagger.",
+      projectDesc2: "🖋️ The objective was to develop the front end of an online banking application to create a dynamic and responsive user experience. Technologies used: JavaScript, React, Redux, Nodes.js,  Express.js",
         footerLink: [
         {
           name: emoji("🔗 source github "),
