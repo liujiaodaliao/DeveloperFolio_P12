@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c54ebead.css",
+    "main.js": "/static/js/main.bcb6bcf3.js",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/ArgentBank.webp": "/static/media/ArgentBank.5760f3909f13ca7e1400.webp",
+    "static/media/pamri.png": "/static/media/pamri.edcb2d8fbc86be1f98d1.png",
+    "static/media/contactMailDark.webp": "/static/media/contactMailDark.3fa46b9e1f342b553fd2.webp",
+    "static/media/manOnTable.webp": "/static/media/manOnTable.ba1784fc72acc5595158.webp",
+    "static/media/BUCEAlogo.webp": "/static/media/BUCEAlogo.33c50e6836b61ae5e010.webp",
+    "static/media/skill.webp": "/static/media/skill.314be6f85bc508395a1e.webp",
+    "static/media/developerActivity.webp": "/static/media/developerActivity.5b274937ee070b695be2.webp",
+    "static/media/724-Events.webp": "/static/media/724-Events.4e2c9505e9b6674a816b.webp",
+    "static/media/Kasaimmobilier.webp": "/static/media/Kasaimmobilier.4e1216c97e3cbcf88272.webp",
+    "static/media/BJGJlogo.webp": "/static/media/BJGJlogo.8394d316c371128b19d5.webp",
+    "static/media/openclassroomslogo.webp": "/static/media/openclassroomslogo.65947da5528050a8f1c5.webp",
+    "static/media/bjzhhkj.webp": "/static/media/bjzhhkj.d6d17ed61a848d4892d2.webp",
+    "index.html": "/index.html",
+    "main.c54ebead.css.map": "/static/css/main.c54ebead.css.map",
+    "main.bcb6bcf3.js.map": "/static/js/main.bcb6bcf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54ebead.css",
+    "static/js/main.bcb6bcf3.js"
+  ]
+}
